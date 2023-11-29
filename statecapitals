@@ -1,0 +1,303 @@
+[
+{
+    "state": "Alabama",
+    "capital": "Montgomery",
+    "fact": "Montgomery was founded in 1814 under the designation of Fort Montgomery.",
+    "image": "https://sah-archipedia.org/sites/default/files/pictures/full/AL-01-101-0004_001.jpg"
+},
+{
+    "state": "Alaska",
+    "capital": "Juneau",
+    "fact": "Juneau is the only state captial that borders a foreign country.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Alaska_State_Capitol_Building.jpg"
+},
+{
+    "state": "Arizona",
+    "capital": "Phoenix",
+    "fact": "Phoneix is known for its year-round sun and warm temperatures.",
+    "image": "https://www.library.pima.gov/wp-content/uploads/sites/6/2017/06/state-capital-building-phoenix.jpg"
+},
+{
+    "state": "Arkansas",
+    "capital": "Little Rock",
+    "fact": "Little Rock is home to the William J. Clinton Presidential Library and Museum, with exhibits including a replica of the Oval Office and presidential artifacts.",
+    "image": "https://www.tripsavvy.com/thmb/sXJwq7uryOX80sV4PAJy_uD0_m8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-478153719-5842a3153df78c023076fc53.jpg"
+},
+{
+    "state": "California",
+    "capital": "Sacramento",
+    "fact": "The district of Old Sacramento harkens back to the city's Gold Rush era, with wooden sidewalks and wagon rides.",
+    "image": "https://media.california.com/media/_versions/articles/optimized-shutterstock_692032534__1200x610___v1222x580.jpg"
+},
+{
+    "state": "Colorado",
+    "capital": "Denver",
+    "fact": "Larimer Square, Denver's oldest block, features landmark 19th-century buildings.",
+    "image": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/COcapitolbuildingDenver.jpg"
+},
+{
+    "state": "Connecticut",
+    "capital": "Hartford",
+    "fact": "Hartford is home to the Mark Twain House and Museum.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Connecticut_State_Capitol%2C_February_24%2C_2008.jpg"
+},
+{
+    "state": "Delaware",
+    "capital": "Dover",
+    "fact": "The First State Heritage Park in Dover comprises several sites around the centuries-old Green.",
+    "image": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/DoverDEstatehouse.jpg"
+},
+{
+    "state": "Florida",
+    "capital": "Tallahassee",
+    "fact": "Tallahassee was chosen as the capital of American Florida in 1824, primarily because it was the midway point between the two principal cities.",
+    "image": "https://www.miamiherald.com/latest-news/57e4bn/picture268088117/alternates/FREE_1140/TALLY_LANDMARKS_DAV19.jpg"
+},
+{
+    "state": "Georgia",
+    "capital": "Atlanta",
+    "fact": "Atlanta is the state's largest city and the 9th largest metropolitan area in the United States.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Georgia_State_Capitol%2C_Atlanta%2C_West_view_20160716_1.jpg"
+},
+{
+    "state": "Hawaii",
+    "capital": "Honolulu",
+    "fact": "Honolulu, on the island of Oahu's south shore, is the gateway to the U.S. island chain.",
+    "image": "https://www.101thingstodo.com/wp-content/uploads/2015/01/OahuCapitol-stock.jpg",
+},
+{
+    "state": "Idaho",
+    "capital": "Boise",
+    "fact": "The Boise River Greenbelt is a series of tree-dotted trails and parks hugging the water's edge. ",
+    "image": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/IdahoCapitolBoise.jpg"
+},
+{
+    "state": "Illinois",
+    "capital": "Springfield",
+    "fact": "In downtown Springfield, the interior of Illinois State Capitol's large dome is decorated with stained glass and statues of historical figures.",
+    "image": "https://media1.illinoistimes.com/illinoistimes/imager/u/original/13507843/the_capital_city_01.jpg"
+},
+{
+    "state": "Indiana",
+    "capital": "Indianapolis",
+    "fact": "Indianapolis, colloquially known as Indy, is the capital and most populous city of the U.S. state of Indiana and the seat of Marion County.",
+    "image": "https://i0.wp.com/ancestralfindings.com/wp-content/uploads/2019/11/The-State-Capitals-Indiana.jpg?fit=810%2C456&ssl=1"
+},
+{
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "fact": "The gold-domed Iowa State Capitol building is among the 19th- and early-20th-century landmarks of the East Village area.",
+    "image": "https://oldcap.uiowa.edu/sites/oldcap.uiowa.edu/files/2019-10/Capitol%20Iowa%20state%20.jpg"
+},
+{
+    "state": "Kansas",
+    "capital": "Topeka",
+    "fact": "The domed, neoclassical State Capitol in Topeka has murals and statues. Photos and exhibits at the Brown v. Board of Education National Historic Site",
+    "image": "https://i0.wp.com/ancestralfindings.com/wp-content/uploads/2020/01/The-State-Capitals-Kansas.jpg?fit=810%2C456&ssl=1"
+},
+{
+    "state": "Kentucky",
+    "capital": "Frankfort",
+    "fact": "Frankfort was founded in 1786 on the Kentucky River by Gen. James Wilkinson.",
+    "image": "https://www.southernliving.com/thmb/6wzvaUegMSqsRJTD3o9X59bNRmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/kentucky-capitol-501276873-5b0b45a3fa6bcc00372214f8.jpg"
+},
+{
+    "state": "Louisiana",
+    "capital": "Baton Rouge",
+    "fact": "Antebellum landmarks in Baton Rouge include the castle-like Old Louisiana State Capitol, now a museum, and Magnolia Mound Plantation, with its French Creole house.",
+    "image": "https://cdn.britannica.com/70/117470-050-575E9253/State-Capitol-Building-Baton-Rouge-La.jpg"
+},
+{
+    "state": "Maine",
+    "capital": "Augusta",
+    "fact": "Beside the Kennebec River in Augusta, Old Fort Western is an 18th-century wooden fort, with a recreated general store.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maine_State_House_5_%28cropped%29.jpg"
+},
+{
+    "state": "Maryland",
+    "capital": "Annapolis",
+    "fact": "Anaapolis' historic district includes 18th-century brick houses and the domed 1700s Maryland State House.",
+    "image": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/MDstatehouseAnnapolis.jpg"
+},
+{
+    "state": "Massachusetts",
+    "capital": "Boston",
+    "fact": "Boston us the cultural & financial center of New England in the Northeastern United States." ,
+    "image": "https://historyofmassachusetts.org/wp-content/uploads/2021/01/Massachusetts-State-House-Boston-Mass.jpg"
+},
+{
+    "state": "Michigan",
+    "capital": "Lansing",
+    "fact": "Dating to the 1870s, the Michigan State Capitol building in Lansing features a cast-iron dome.",
+    "image": "https://i0.wp.com/ancestralfindings.com/wp-content/uploads/2020/06/The-State-Capitals-Michigan.jpg?fit=1000%2C563&ssl=1"
+},
+{
+    "state": "Minnesota",
+    "capital": "Saint Paul",
+    "fact": "Saint Paul, the state capital of Minnesota, forms the 'Twin Cities' with neighboring Minneapolis.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Minnesota_State_Capitol_Aerial.jpg"
+},
+{
+    "state": "Mississippi",
+    "capital": "Jackson",
+    "fact": "The statewide Mississippi Freedom Trail runs through the city, encompassing a number of historic sites that were significant in the civil rights movement.",
+    "image": "https://www.worldatlas.com/r/w1200/upload/b0/01/b8/shutterstock-427048960.jpg"
+},
+{
+    "state": "Missouri",
+    "capital": "Jefferson City",
+    "fact": "Jefferson City is only Missouri's 15th most populous city in the state.",
+    "image": "https://ancestralfindings.com/wp-content/uploads/2020/07/The-State-Capitals-Missouri.jpg"
+},
+{
+    "state": "Montana",
+    "capital": "Helena",
+    "fact": "https://ancestralfindings.com/wp-content/uploads/2020/07/The-State-Capitals-Missouri.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/MK01799_Montana_State_Capitol.jpg"
+},
+{
+    "state": "Nebraska",
+    "capital": "Lincoln",
+    "fact": "Built in 1930, the Sunken Gardens in Lincoln features themed gardens, sculptures and lily ponds.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nebraska_State_Capitol_aerial.jpg/1200px-Nebraska_State_Capitol_aerial.jpg"
+},
+{
+    "state": "Nevada",
+    "capital": "Carson City",
+    "fact": "Carson City is an independent city and the capital of the U.S. state of Nevada.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Nevada_State_Capitol.JPG",
+},
+{
+    "state": "New Hampshire",
+    "capital": "Concord",
+    "fact": "Concord is home to the State House, a gold-domed building dating from 1819, with a visitor center and the Hall of Flags.",
+    "image": "https://cdn.britannica.com/17/191017-050-CEF52F22/State-House-Concord-New-Hampshire.jpg"
+},
+{
+    "state": "New Jersey",
+    "capital": "Trenton",
+    "fact": "Trenton is part of the Greater New York City Combined Statistical Area.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/NJ_Capitol_%28cropped%29.JPG"
+},
+{
+    "state": "New Mexico",
+    "capital": "Santa Fe",
+    "fact": "Santa Fe is renowned for its Pueblo-style architecture and as a creative arts hotbed. ",
+    "image": "https://i0.wp.com/ancestralfindings.com/wp-content/uploads/2020/08/Santa-Fe-Capital-New-Mexico.jpg?fit=810%2C456&ssl=1"
+},
+{
+    "state": "New York",
+    "capital": "Albany",
+    "fact": "Downtown Albany's huge Empire State Plaza has reflecting pools, an art-filled underground shopping concourse and The Egg, a striking performing arts center.",
+    "image": "https://i0.wp.com/ancestralfindings.com/wp-content/uploads/2020/08/The-State-Capitals-New-York.jpg?fit=810%2C456&ssl=1"
+},
+{
+    "state": "North Carolina",
+    "capital": "Raleigh",
+    "fact": "Raliegh is known for its universities, including North Carolina State University.",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/crm/raleigh/NC-State-Capitol-29_7b223d0b-9ef5-18dc-e5c70fa4eebb3ab4.jpg"
+},
+{
+    "state": "North Dakota",
+    "capital": "Bismarck",
+    "fact": "The tall, art deco North Dakota State Capitol in Bismarck is set on landscaped grounds.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/2009-0521-ND-StateCapitol_%28cropped%29.jpg/1200px-2009-0521-ND-StateCapitol_%28cropped%29.jpg"
+},
+{
+    "state": "Ohio",
+    "capital": "Columbus",
+    "fact": "Columbus' Scioto Mile is a string of parks on both sides of the Scioto River, with a huge interactive fountain and trails." ,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ohio_Statehouse_exterior.jpg"
+},
+{
+    "state": "Oklahoma",
+    "capital": "Oklahoma City",
+    "fact": "Oklahoma City is known for its cowboy culture and capitol complex, surrounded by working oil wells.",
+    "image": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/OKCapitolOklahomaCity.jpg"
+},
+{
+    "state": "Oregon",
+    "capital": "Salem",
+    "fact": "Set amid a park with gardens, the domed Oregon State Capitol contains a collection of art by Oregon artists.",
+    "image": "https://www.oregonlegislature.gov/capitolhistorygateway/PublishingImages/Pages/History-of-the-Capitol-Building/Building_4_current.jpg"
+},
+{
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "fact": "The National Civil War Museum in Harrisburg illustrates both sides of the conflict via interactive exhibits and re-enactments.",
+    "image": "https://www.abc27.com/wp-content/uploads/sites/55/2022/07/GettyImages-1072705944.jpg"
+},
+{
+    "state": "Rhode Island",
+    "capital": "Providence",
+    "fact": "Providence is home to Brown University and the Rhode Island School of Design, whose RISD Museum displays American art and silver.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rhode_Island_State_House_2.jpg"
+},
+{
+    "state": "South Carolina",
+    "capital": "Columbia",
+    "fact": "Columbia is home to the South Carolina State House, a Greek Revival building set in gardens dotted with monuments.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/SC_State_House_at_evening.jpg"
+},
+{
+    "state": "South Dakota",
+    "capital": "Pierre",
+    "fact": "Pierre is the second least populous state capital after Montpelier, Vermont.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/South_Dakota_State_Capitol.jpg"
+},
+{
+    "state": "Tennessee",
+    "capital": "Nashville",
+    "fact": "Nashville is home to legendary country music venues including the Grand Ole Opry House, home of the famous “Grand Ole Opry” stage and radio show.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tennessee_State_Capitol_2022f.jpg"
+},
+{
+    "state": "Texas",
+    "capital": "Austin",
+    "fact": "Home to the University of Texas flagship campus, Austin is known for its eclectic live-music scene centered around country, blues and rock.",
+    "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_396,q_75,w_704/v1/crm/austin/Texas-State-Capitol-South-Facade-2015.-Courtesy-of-the-Texas-State-Preservation-Board.-FOR-ACVB-USE-ONLY.2-deab0033c10caad_deab01b1-a18b-29bc-401f131d372cbabc.jpg" 
+},
+{
+    "state": "Utah",
+    "capital": "Salt Lake City",
+    "fact": "Salt Lake City is the political, cultural, and religious capital of Utah.",
+    "image": "https://www.nationsonline.org/gallery/USA/Utah-State-Capitol-SLC.jpg"
+},
+{
+    "state": "Vermont",
+    "capital": "Montpelier",
+    "fact": "The 1859 Vermont State House is a gold-domed Greek Revival building with decorative and fine art collections.",
+    "image": "https://ancestralfindings.com/wp-content/uploads/2020/10/The-State-Capitals-Vermont.jpg"
+},
+{
+    "state": "Virginia",
+    "capital": "Richmond",
+    "fact": "Richmond is among America's oldest major cities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/MJK50147_Virginia_State_Capitol.jpg"
+},
+{
+    "state": "Washington",
+    "capital": "Olympia",
+    "fact": "The sprawling Washington State Capitol Campus, beside Capitol Lake, includes the stately Legislative Building and the 1909 Governor's Mansion.",
+    "image":"https://www.worldatlas.com/r/w1200/upload/7e/74/32/untitled-design-205.jpg"
+},
+{
+    "state": "West Virginia",
+    "capital": "Charleston",
+    "fact": "Charleston is at the confluence of the Elk and Kanawha river.",
+    "image": "https://cdn.britannica.com/40/222240-050-844C4FED/West-Virginia-State-Capitol-Charleston-West-Virginia.jpg"
+},
+{
+    "state": "Wisconsin",
+    "capital": "Madison",
+    "fact": "Madison is known for the domed Wisconsin State Capitol, which sits on an isthmus between lakes Mendota and Monona.",
+    "image": "https://6amcity.brightspotcdn.com/dims4/default/365937c/2147483647/strip/true/crop/968x545+1+0/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-sixam-city.s3.us-east-2.amazonaws.com%2Fbrightspot%2F07%2F98%2F9feb0d25edfbd9bb5b9f5d2a6fb3%2F248826690-626297662086582-4467186733931961404-n.jpg"
+},
+{
+    "state": "Wyoming",
+    "capital": "Cheyenne",
+    "fact": "Cheyenne is home to the Cheyenne Frontier Days Old West Museum, with exhibits about early rodeos and artifacts like 19th-century passenger wagons.",
+    "image": "https://cdn.britannica.com/99/116399-050-D0E44C6E/Capitol-Cheyenne-Wyoming.jpg"
+}
+
+]
